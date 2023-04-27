@@ -2,4 +2,4 @@ ZergRot
 =======
 
 ## Description
-Attempt to teach an AI to become StarCraft 2 confident player
+Predicting the outcome of online game tournaments using ML/AI
